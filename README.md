@@ -20,7 +20,7 @@ College name: K.J. Somaiya College of Engineering, Vidyavihar
 
 > Note: To run the program we need Cervical_cancer.ipynb file (available in implementation folder) and cervical-cancer.csv (available in data folder) downloaded
 
-#### Step 1: Go to https://colab.research.google.com/
+#### Step 1: Go to [Google colab](https://colab.research.google.com/)
 
 #### Step 2: Select upload
 
@@ -35,3 +35,10 @@ College name: K.J. Somaiya College of Engineering, Vidyavihar
 ![Third step](images/fourth_step.png)
 
 #### Step 5: Run cells in sequential manner to get output
+
+### Conclusion:
+
+- The data was biased as the huge number of 0's in the dataset affected the output.
+- Confusion matrix confirms the paper conclusion of data being biased
+
+Thank you
